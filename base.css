@@ -1,0 +1,35 @@
+.apo_listcd{ color:white;
+border: 2px solid gray;
+background-color: darkblue;
+text-align: center;
+width: 500px;
+position: absolute;
+margin: auto;
+text-align: center;
+}
+
+.apo_foto{
+    width: 300px;
+    background-color: darkgray;
+    margin-top: 60px;
+    border: 2px solid white;
+    position: absolute;
+margin: auto;
+color:darkblue;
+}
+
+body { background-image: url('cla1.jpg');}
+.apo_btn{
+
+    border: 2px solid white;
+    background-color: darkgrey;
+    color: white;
+    width: 200px;
+}
+.apo_backbout{
+    background-color: lightpink;
+}
+.apo_des{
+    color:white;
+}
+
